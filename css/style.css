@@ -110,6 +110,57 @@ body{
 
  }
 
+
+ /* flowerdescrive */
+ .flowerdescrive{
+    display: flex;
+    gap: 60px;
+    padding-left: 100px;
+  
+ }
+
+ .flower1 img{
+    padding-top: 100px;
+    padding-left: 55px;
+ }
+ .flower2 img{
+    padding-top: 100px;
+    padding-left: 55px;
+ }
+
+ .flower3 img{
+    padding-top: 100px;
+    padding-left: 55px;
+ }
+
+
+ /* flower1 */
+ .flower1{
+    
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+ }
+ /* flowerlink */
+ .flower1 >.flowerlink{
+    padding-top: 25px;
+ }
+
+ .flower2{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+ }
+
+ .flower3{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+ }
+
 /* main section end */
 
 
