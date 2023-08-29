@@ -192,6 +192,69 @@ body{
     background: rgba(71, 125, 17, 0.15);
  }
 
+
+
+
+ /* deals section  */
+
+ .deals{
+   width: 1440px;
+   height: 449px;
+   border-radius: 8px;
+   background: url('../image/Rectangle\ 9.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+   margin-left: 10%;
+   margin-bottom: 128px;
+
+ }
+
+ /* getlatest  */
+
+ .getlatest{
+   width: 473px;
+   height: 48px;
+   color: #272727;
+   text-align: center;
+   font-size: 40px;
+   padding-top: 10%;
+   padding-left: 35%;
+ 
+ }
+
+ /* coupon */
+ .coupon{
+   color: rgba(39, 39, 39, 0.60);
+   text-align: center;
+   font-size: 18px;
+   width: 301px;
+   height: 30px;
+   padding-left: 40%;
+   
+
+ }
+ /* subscribeweb */
+
+ .subscribeweb{
+    padding-top: 1%;
+   padding-left: 25%;
+
+ }
+
+.email{
+   width: 500px;
+   height: 44px;
+   border-radius: 8px;
+   background: #FFF;
+
+}
+
+.btn-subscribe{
+   width: 150px;
+   height: 50px;
+   border-radius: 8px;
+   background: #E55473;
+   margin-right: 16px;
+   color: #FFF;
+}
 /* main section end */
 
 
