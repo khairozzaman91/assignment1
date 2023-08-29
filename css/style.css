@@ -68,9 +68,13 @@ body{
    width: 635px;
    height: 800px;
    position: right;
-   width: 60%;
+   width: 50%;
    padding:50px 240px 0 245px;
 
+}
+
+.img{
+   padding-right: 50px;
 }
 
 /* head section end */
@@ -101,7 +105,7 @@ body{
 /* featureddescrive */
 .featureddescrive{
    padding-top: 24px;
-   margin-left: -150px;
+   margin-left: -130px;
    width: 594px;
    height: 60px;
    color: rgba(39, 39, 39, 0.60);
@@ -152,6 +156,7 @@ body{
 
 .pinkflower{
   padding-top: 50px;
+  padding-left: -15px;
   color: #272727;
   text-align: center;
 }
@@ -187,7 +192,7 @@ body{
   border-radius: 8px;
   background: rgba(39, 39, 39, 0.05);
   display: flex;
-  gap: 50;
+  gap: 80px;
   margin-left: 160px;
   padding: 0 25px;
   
