@@ -192,6 +192,55 @@ body{
     background: rgba(71, 125, 17, 0.15);
  }
 
+ /* service */
+
+ .service{
+   width: 1440px;
+   height: 320px;
+   border-radius: 8px;
+   background: rgba(39, 39, 39, 0.05);
+   display: flex;
+   gap: 50;
+   margin-left: 160px;
+   padding: 0 5px;
+   
+ }
+ /* homedelibry */
+
+ .service img{
+   width: 88px;
+   height: 88px;
+
+ }
+ .homedelibry{
+   padding-left: 220px;
+   padding-top: 100px;
+ }
+ #img1{
+   padding-left:150px;
+ }
+ #img2{
+   padding-left:100px;
+ }
+
+ .home{
+   width: 372px;
+   height: 35px;
+   text-align: center;
+ }
+
+ .localflower{
+   padding-top:100px;
+   padding-left: 25px;
+ }
+
+ .callservice{
+   padding-top:100px;
+   padding-left: 95px;
+ }
+ #img3{
+   padding-left:45px;
+ }
  /* hotdeals section start */
 
  .hotdeals{
