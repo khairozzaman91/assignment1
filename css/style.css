@@ -107,15 +107,22 @@ body{
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 18px;
+    
 
  }
 
 
  /* flowerdescrive */
  .flowerdescrive{
+   padding-top: -90%;
+    width: 1520px;
+    height: 4867px;
     display: flex;
     gap: 60px;
     padding-left: 100px;
+    background: #FFF;
+    color: #111010;
+
   
  }
 
@@ -129,8 +136,8 @@ body{
  }
 
  .flower3 img{
-    padding-top: 100px;
-    padding-left: 55px;
+    padding-top: 10px;
+    padding-left: 90px;
  }
 
 
@@ -143,8 +150,32 @@ body{
     background: rgba(167, 33, 98, 0.15);
  }
  /* flowerlink */
- .flower1 >.flowerlink{
-    padding-top: 25px;
+ .flowerlink1{
+   padding-top: 35px;
+   padding-left: 125px;
+   width: 181px;
+   height: 35px;
+   color: #272727;
+   text-align: center;
+   text-decoration-line: underline;
+ }
+ .flowerlink2{
+   padding-top: 95px;
+   padding-left: 125px;
+   width: 181px;
+   height: 35px;
+   color: #272727;
+   text-align: center;
+   text-decoration-line: underline;
+ }
+ .flowerlink3{
+   padding-top: 95px;
+   padding-left: 125px;
+   width: 181px;
+   height: 35px;
+   color: #272727;
+   text-align: center;
+   text-decoration-line: underline;
  }
 
  .flower2{
