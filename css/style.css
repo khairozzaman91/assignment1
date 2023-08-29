@@ -192,6 +192,52 @@ body{
     background: rgba(71, 125, 17, 0.15);
  }
 
+ /* hotdeals section start */
+
+ .hotdeals{
+   width: 1922px;
+   height: 620px;
+   border-radius: 8px;
+   background: rgba(229, 84, 115, 0.05);
+   display: flex;
+   gap: 40;
+   padding-top: 105px;
+
+ }
+
+ /* hotdealsdescrive */
+
+ .hotdealsdescrive{
+   padding-top: 120px;
+   padding-left: 370px;
+ }
+
+ /* hotdealsimg */
+
+ .hotdealsimg{
+   padding-left:205px;
+ }
+ /* hotdealsoffer */
+
+ .hotdealsoffer{
+   color: #272727;
+   font-size: 30px;
+   width: 537px;
+   height: 48px;
+
+ }
+
+ /* hotdealsdescrive */
+
+ .hotdealsdescrives{
+   color: rgba(39, 39, 39, 0.60);
+   text-align: center;
+   font-size: 18px;
+   width: 594px;
+   height: 60px;
+
+ }
+
 
 
 
