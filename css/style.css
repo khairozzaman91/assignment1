@@ -196,7 +196,7 @@ body{
 
  .hotdeals{
    width: 1922px;
-   height: 620px;
+   height: 420px;
    border-radius: 8px;
    background: rgba(229, 84, 115, 0.05);
    display: flex;
@@ -238,6 +238,37 @@ body{
 
  }
 
+
+ /* Instagram  */
+
+ .Instagram{
+   width: 1920px;
+   height: 4867px;
+   background: #FFF;
+   padding-left: 700px;
+   padding-top: 50px;
+ }
+
+ .Instagramabout{
+   width: 180px;
+   height: 48px;
+   color: #272727;
+   text-align: center;
+   font-size: 40px;
+
+}
+
+/* Instagramaboutdeatils */
+
+.Instagramaboutdeatils{
+   width: 594px;
+   height: 60px;
+   color: rgba(39, 39, 39, 0.60);
+   text-align: center;
+   font-size: 18px;
+   margin-left: -200px;
+
+}
 
 
 
